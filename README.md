@@ -1,16 +1,23 @@
-## Ai4Sci Scientific Machine Learning Course
+# Ai4Sci Scientific Machine Learning Course
 
 Scientific Machine Learning
+
+---
 
 Course lead: Prof Chris Budd OBE, University of Bath
 
 Course facilitator:  Mr Aengus Roberts. University of Bath
 
-Overview: 
+----
+
+ # Overview: 
 
 This course is aimed at anyone interested in the use of machine learning for scientific problems, typically mathematically formulated as inverse problems or differential equations. It will look at a variety of machine learning techniques for these problems. We will describe both how to use them for practical problems,  and will consider their advantages and disadvantages when compared with more conventional numerical methods. The course will include a practical session in Python based on the Google Colab platform, and will make use of GitHub. 
 
-Timetable:                    Each lecture will have a break after it for questions and down time
+----
+
+
+# Timetable:                    Each lecture will have a break after it for questions and down time
 
 9.30am – 10.15am  Lecture One: Introduction 
 
