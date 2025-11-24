@@ -22,11 +22,11 @@ Each lecture will have a break after it for questions and down time
 
 9.30am – 10.15am  Lecture One: Introduction 
 
-Introduction to the scope of scientific machine learning. Machine learning for problems such as classification. Training, and optimisation. Generative methods.
+Introduction to the scope of scientific machine learning. Machine learning for problems such as classification. Training, and optimisation. 
 
 10.30am -11.15am     Lecture Two: Architecture for Scientific Machine Learning
 
-Basic architectures: MLP, Convolutional Neural Nets, LSTNs, GNNs and their applications to image processing, inverse problems, data analysis and prediction
+Basic architectures: MLP, Convolutional Neural Nets, LSTNs, GNNs and their applications to image processing, inverse problems, data analysis and prediction, generative AI
 
 
 11.30am -12.15pm.    Lecture Three: Machine learning for differential equations 1
