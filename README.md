@@ -20,28 +20,41 @@ This course is aimed at anyone interested in the use of machine learning for sci
   
 Each lecture will have a break after it for questions and down time
 
+---
+
 9.30am – 10.15am  Lecture One: Introduction 
 
 Introduction to the scope of scientific machine learning. Machine learning for problems such as classification. Training, and optimisation. Examples
+
+---
 
 10.30am -11.15am     Lecture Two: Architectures for Scientific Machine Learning
 
 Basic architectures: MLP, Convolutional Neural Nets, LSTNs, GNNs and their applications to image processing, inverse problems, data analysis and prediction, generative AI
 
+----
 
 11.30am -12.15pm.    Lecture Three: Machine learning for differential equations 1
 
 PINNS (physics informed neural net methods), Deep Ritz methods. Construction, application, convergence, and comparison to conventional methods.
 
+----
+
 12.30pm-1.15pm.       Lunch break
+
+---
 
 1.15pm-2.00pm          Lecture Four: Machine learning for differential equations 2
 
 Neural operators, Fourier Neural Operators. Applications to the Geosciences, and weather forecasting. 
 
+----
+
 2.15pm-2.45pm         Lecture Five: Discovering dynamics
 
 Neural ODEs, SINDy, and reconstructing dynamics from data
+
+---
 
 3.00pm-4pm.              Practical Colab Session
 
