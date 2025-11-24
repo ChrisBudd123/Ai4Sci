@@ -1,4 +1,4 @@
- # Ai4Sci Scientific Machine Learning Course:
+ # Ai4Sci Scientific Machine Learning Course:
 
 Scientific Machine Learning
 
@@ -17,7 +17,9 @@ This course is aimed at anyone interested in the use of machine learning for sci
 ----
 
 
-  # Timetable:                    Each lecture will have a break after it for questions and down time
+  # Timetable:                   
+  
+Each lecture will have a break after it for questions and down time
 
 9.30am – 10.15am  Lecture One: Introduction 
 
