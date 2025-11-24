@@ -22,9 +22,9 @@ Each lecture will have a break after it for questions and down time
 
 9.30am – 10.15am  Lecture One: Introduction 
 
-Introduction to the scope of scientific machine learning. Machine learning for problems such as classification. Training, and optimisation. 
+Introduction to the scope of scientific machine learning. Machine learning for problems such as classification. Training, and optimisation. Examples
 
-10.30am -11.15am     Lecture Two: Architecture for Scientific Machine Learning
+10.30am -11.15am     Lecture Two: Architectures for Scientific Machine Learning
 
 Basic architectures: MLP, Convolutional Neural Nets, LSTNs, GNNs and their applications to image processing, inverse problems, data analysis and prediction, generative AI
 
@@ -37,7 +37,7 @@ PINNS (physics informed neural net methods), Deep Ritz methods. Construction, ap
 
 1.15pm-2.00pm          Lecture Four: Machine learning for differential equations 2
 
-Neural operators, Fourier Neural Operators and DeepONet methods. Applications to the Geosciences, and weather forecasting. 
+Neural operators, Fourier Neural Operators. Applications to the Geosciences, and weather forecasting. 
 
 2.15pm-2.45pm         Lecture Five: Discovering dynamics
 
