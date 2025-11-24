@@ -1,6 +1,5 @@
  # Ai4Sci Scientific Machine Learning Course:
 
-Scientific Machine Learning
 
 ---
 
